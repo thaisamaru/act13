@@ -16,5 +16,5 @@ Para clonar e rodar a suíte de testes no seu computador:
 ### Clonar o repositório
 Abra o seu terminal e execute:
 ```bash
-git clone [https://github.com/thaisamaru/act13)
+git clone https://github.com/thaisamaru/act13
 cd act13
