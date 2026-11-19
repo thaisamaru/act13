@@ -16,5 +16,5 @@ Para clonar e rodar a suíte de testes no seu computador:
 ### Clonar o repositório
 Abra o seu terminal e execute:
 ```bash
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-cd projeto-missao-marte
+git clone [https://github.com/thaisamaru/act13)
+cd act13
